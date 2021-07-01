@@ -8,7 +8,7 @@ I am Android Developer in love with Kotlin. I'm study Information and communicat
 - 🌱 I’m currently learning Swift for iOS dev and mastering Android Development. 
 - 📫 How to reach me: radoslaw.marek.czubak@gmail.com
 - 💬 Ask me about anything, I'll try to answer 😃
-- 🤔 I’m looking for help with 
+- 📖 I try to be better everyday!
 
 ___
 
