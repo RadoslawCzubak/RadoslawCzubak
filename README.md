@@ -14,7 +14,7 @@ ___
 
 #### Some stats 😇:
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=RadoslawCzubak&theme=prussian&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" height="170em"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RadoslawCzubak&theme=prussian&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" height="170em"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslawCzubak&theme=prussian&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" height="170em"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=RadoslawCzubak&theme=prussian&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" height="170em"/>
 </p> 
