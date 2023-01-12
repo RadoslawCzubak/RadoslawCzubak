@@ -9,7 +9,6 @@ I am Android Developer in love with Kotlin. I'm study Information and communicat
 - 📫 How to reach me: radoslaw.marek.czubak@gmail.com
 - 💬 Ask me about anything, I'll try to answer 😃
 - 📖 I try to be better everyday!
-- 👥 I'm looking to collaborate on my open-source app - Cryptvesting
 
 ___
 
