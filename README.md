@@ -2,14 +2,14 @@
 
 ---
 
-I am Android Developer in love with Kotlin. I'm study Information and communications technology on Wroclaw University of Science and Technology. 
+I am Android Developer in love with Kotlin. I study Applied IT on Wroclaw University of Science and Technology. 
 
 - 🔭 I’m currently working on usual and unusual apps.
 - 🌱 I’m currently learning Swift for iOS dev and mastering Android Development. 
 - 📫 How to reach me: radoslaw.marek.czubak@gmail.com
 - 💬 Ask me about anything, I'll try to answer 😃
 - 📖 I try to be better everyday!
-
+- 👨‍💻 I'm a Freelance Android Developer, passionate about creating mobile applications that deliver great user experiences. Need a mobile application? Feel free to reach out!
 ___
 
 #### Some stats 😇:
